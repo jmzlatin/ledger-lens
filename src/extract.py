@@ -27,6 +27,9 @@ round, or "fix" anything — even if the line items, subtotal, tax, and total \
 do not add up. Recording inconsistent numbers faithfully is correct behavior.
 - If a value is missing, blank, or illegible, record null. NEVER guess or \
 invent a value to fill a gap.
+- Record `discount` as a POSITIVE amount (the size of the reduction), even \
+when it is printed with a minus sign or in parentheses (e.g. "-16.00" or \
+"(16.00)" both become 16.00). This is a sign convention, not a recomputation.
 - Use field_confidence to be honest about each field you record. Mark a field \
 "low" when the value is inferred, ambiguous, or read from degraded/noisy OCR; \
 otherwise "high". Keys are field names (e.g. "total", "invoice_date").
@@ -64,7 +67,13 @@ RECORD_INVOICE_TOOL = {
             },
             "subtotal": {"type": ["number", "null"]},
             "tax": {"type": ["number", "null"]},
-            "discount": {"type": ["number", "null"]},
+            "discount": {
+                "type": ["number", "null"],
+                "description": (
+                    "The discount amount as a POSITIVE number, even if printed "
+                    "with a minus sign or in parentheses."
+                ),
+            },
             "total": {"type": ["number", "null"]},
             "line_items": {
                 "type": "array",
