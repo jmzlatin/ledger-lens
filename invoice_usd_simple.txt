@@ -1,0 +1,9 @@
+Invoice from: Riley Designs
+No: RD-031   Date: 2024-05-20   Due: 2024-06-19
+
+Logo design package ... 1 x 1200.00 = 1200.00
+
+Subtotal: 1200.00
+Tax: 0.00
+Total: 1200.00
+USD

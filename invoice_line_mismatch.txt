@@ -1,0 +1,10 @@
+NORTHGATE LEGAL
+Invoice LG-558  |  2024-02-01  |  due 2024-03-02  |  USD
+
+  Matter                         Hrs    Rate      Line
+  Contract review                  3    1500     4200.00
+  Filing                           1     800      800.00
+
+  Subtotal                                       5000.00
+  Tax                                               0.00
+  Total                                          5000.00

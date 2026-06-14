@@ -1,0 +1,18 @@
+Brightwave  Marketing   Grp.
+inv no .... BW/9931/A      issued 03-07-2024
+
+bill to: Nominal Inc
+
+  item                         q       @         line
+  ----                         -       -         ----
+  Landing page redesign        1     4200.00    4200.00
+  SEO audit  (rush)            1      900.00     900,00
+  stock photos pack           12       15.00     180.00
+
+                                      sub  ......  5280.00
+                                      disc 10% ... -528.00
+                                      vat  18% ...  85x.x6   <- smudged
+                                      ------------------------
+                                      TOTAL DUE     5607.36
+
+terms: due on receipt

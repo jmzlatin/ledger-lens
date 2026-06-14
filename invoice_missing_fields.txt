@@ -1,0 +1,12 @@
+GREENLEAF GARDENING
+date: 2024-06-09
+currency EUR
+
+  Lawn maintenance (monthly)      1    120.00    120.00
+  Hedge trimming                  2     45.00     90.00
+
+  subtotal   210.00
+  vat 19%     39.90
+  total      249.90
+
+thanks for your business!

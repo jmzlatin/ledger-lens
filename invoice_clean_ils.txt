@@ -1,0 +1,22 @@
+ACME OFFICE SUPPLIES LTD
+12 Industrial Park, Tel Aviv
+VAT: 514783920
+
+INVOICE
+Invoice #: INV-2024-0417
+Date: 14 March 2024
+Due:  13 April 2024
+Currency: ILS
+
+------------------------------------------------------------
+Description                  Qty    Unit Price     Amount
+------------------------------------------------------------
+A4 Paper (500 sheets)         10        24.90      249.00
+Ballpoint Pens (box of 50)     4        38.00      152.00
+Stapler, heavy duty            2        65.50      131.00
+------------------------------------------------------------
+                                   Subtotal:        532.00
+                                   VAT (17%):         90.44
+                                   Total:            622.44
+
+Payment terms: Net 30

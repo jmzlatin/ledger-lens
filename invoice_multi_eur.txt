@@ -1,0 +1,17 @@
+CloudNimbus Hosting B.V.
+Invoice: CN-2024-7781
+Invoice date: 2024-04-01
+Due date: 2024-04-15
+Currency: EUR
+
+Item                          Qty   Unit     Amount
+Web hosting (Pro)              12    9.50     114.00
+Domain registration            3   14.00      42.00
+SSL certificate                1   59.00      59.00
+Email seats                   20    4.00      80.00
+Daily backup add-on            1   25.00      25.00
+
+Subtotal                                     320.00
+Discount (5%)                                -16.00
+VAT (19%)                                     57.76
+Total                                        361.76
